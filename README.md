@@ -19,11 +19,8 @@ This project is built to practice working with APIs, clean UI design, and real-t
 - 🧱 HTML5  
 - 🎨 CSS3  
 - 💻 JavaScript  
-- 🌐 Weather API (e.g., OpenWeatherMap or similar)
-
-*(Update the API name here if needed.)*
-
-
+- 🌐 Weather API (OpenWeatherMap)
+  
 ---
 
 ## 🧠 Learning Goals
